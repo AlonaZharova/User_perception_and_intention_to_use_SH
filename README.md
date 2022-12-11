@@ -1,10 +1,10 @@
-# Understanding User Perception and Intention to Use Smart Homes for Energy Efficiency: A Survey
+# User Perception and Intention to Use Smart Homes for Energy Efficiency: A Survey
 
 A digital companion to the preprint 
 
 ```
 Alona Zharova and Hee-Eun Lee (2022). 
-Utility-Based Context-Aware Multi-Agent Recommendation System for Energy Efficiency in Residential Buildings. 
+User Perception and Intention to Use Smart Homes for Energy Efficiency: A Survey. 
 arXiv preprint.
 ```
 
