@@ -3,9 +3,7 @@
 A digital companion to the preprint 
 
 ```
-Alona Zharova and Hee-Eun Lee (2022). 
-User Perception and Intention to Use Smart Homes for Energy Efficiency: A Survey. 
-arXiv preprint.
+[TBA]
 ```
 
 ## Summary 
