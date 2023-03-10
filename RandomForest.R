@@ -1,11 +1,3 @@
-# HUMBOLDT-UNIVERSITAET ZU BERLIN   
-# CHAIR OF INFORMATION SYSTEMS   
-# Name:             Hee-Eun Lee
-# Master's thesis:  Understanding User Perception and Intention to Use Smart Home for Energy Efficiency using Structural Equation Modeling and Machine Learning###
-# 1st Examiner:     Prof. Dr. Lessmann
-# 2nd Examiner:     PD. Dr. Fabian
-# Supervisor:       Dr. Alona Zharova
-#------------------------------------------------------------------------------------------------------------------------------------
 
 # -- MACHINE LEARNING - RANDOM FOREST ALGORITHM --
 
