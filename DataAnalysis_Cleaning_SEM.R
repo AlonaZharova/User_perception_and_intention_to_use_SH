@@ -1,18 +1,8 @@
-## HUMBOLDT-UNIVERSITAET ZU BERLIN   
-## CHAIR OF INFORMATION SYSTEMS   
-
-# Name:             Hee-Eun Lee
-## Master's thesis: Understanding User Perception and Intention to Use Smart Home for Energy Efficiency using Structural Equation Modeling and Machine Learning###
-# Due date:         15.01.2022
-# 1st Examiner:     Prof. Dr. Lessmann
-# 2nd Examiner:     PD Dr. Fabian
-# Supervisor:       Dr. Alona Zharova
-
 #------------------------------------------------------------------------------------------------------------------------------------
 #--------------------------------------------  INPUT NEEDED - SET WORKING DIRECTORY  ------------------------------------------------
 
 # Please run RStudio as administrator for permissions
-setwd("C:\\Users\\heeeun\\Dropbox\\Uni\\Masterarbeit\\Umfragedaten\\20211231")
+setwd("...\\Umfragedaten\\20211231")
 getwd()
 #------------------------------------------------------------------------------------------------------------------------------------
 #-------------------------------------------------  DATA IMPORT & LIBRARIES  --------------------------------------------------------
